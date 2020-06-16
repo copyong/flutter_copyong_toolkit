@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-706572932/geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/-706572932/geolocator.iml" group="android/geolocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1113002828/google_api_availability.iml" filepath="$PROJECT_DIR$/.idea/modules/1113002828/google_api_availability.iml" group="android/google_api_availability" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-314449137/location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-314449137/location_permissions.iml" group="android/location_permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1777521245/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1777521245/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/280765905/permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/280765905/permission_handler.iml" group="android/permission_handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-497840352/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-497840352/shared_preferences.iml" group="android/shared_preferences" />
+    </modules>
+  </component>
+</project>
